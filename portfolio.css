@@ -1,0 +1,202 @@
+portfolio-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    padding-bottom: 5px;
+
+}
+
+navbar {
+    background-color: #ffffff;
+}
+
+navItem {
+    color: #eb5b13;
+    font-family: "Roboto";
+}
+
+hireme-button {
+    color: white;
+    width: 169px;
+    height: 50px;
+    background-color: #f02213;
+    font-size: 27px;
+    font-family: "ceveat";
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+banner-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+home-container {
+
+    background-image: url("https://media.istockphoto.com/id/1440801451/photo/coding-programmer-digital-technology-software-development-concept-software-engineer-working.jpg?s=612x612&w=0&k=20&c=CNGs422JdMtmgEa_lq3X4wbRKPzKPd0RTmDxTrRN-G0=");
+
+    background-size: cover;
+    height: 80vh;
+}
+
+profile-container {
+    justify-content: space-around;
+    align-items: center;
+}
+
+profile-image {
+    height: 150px;
+
+    width: 80px;
+    border-radius: 30px;
+}
+
+about-cotainer {
+
+    background-image: url("https://static.vecteezy.com/system/resources/previews/003/127/954/original/abstract-template-blue-background-white-squares-free-vector.jpg");
+
+}
+
+about-content {
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: normal;
+    margin: 10px;
+}
+
+
+PortfolioWebsite-Skills-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+portfolio-skills-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+skills-name {
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+section-title {
+    color: #4c719c;
+    font-size: 29px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+projects-heading {
+    color: #ffffff;
+    font-size: 27px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+Projects-section-card-container {
+    background-color: #3e4c59;
+    border-radius: 10px;
+}
+
+portfolio-project-image {
+    width: 100%;
+}
+
+projects-card-title {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+projects-card-name {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+
+}
+
+projects-card-discription {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+custom-button {
+    color: #cced00;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+Services-section-heading {
+    color: #cced00;
+    font-size: 37px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+Servicessection-title {
+    color: #323f4b;
+    font-size: 27px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+PortfolioWebsite-Services-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+portfolio-design-image {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+card-section-heading {
+    color: #8ea105;
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+card-section-discription {
+    color: #ffffee;
+    font-size: 17px;
+    font-family: "Roboto";
+
+}
+
+portfolio-about-me-image {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+
+portfolio-name {
+    color: #cced00;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+portfolio-details {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+portfolio-end-section-details {
+    color: #959eab;
+    font-size: 15px;
+    font-family: "Roboto";
+    background-color: #001c32;
+}
